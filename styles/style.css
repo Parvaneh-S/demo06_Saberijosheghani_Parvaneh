@@ -1,1 +1,40 @@
 
+
+.form-group{
+    padding-left: 15%;
+}
+.bg-info {
+    background-color: #B1B1CF !important; /* Light green for secondary backgrounds */
+}
+
+.navbar-light .navbar-brand, .navbar-light .navbar-nav .nav-link {
+    color: #77625c;            /* Dark green for brand name & nav links for visibility */
+}
+
+.btn-info {
+    color: #98d2eb;            /* Lightest shade for text on info button for contrast */
+    background-color: #B1B1CF; /* Light green for button background */
+    border-color: #77625c;     /* Dark green for button border */
+}
+
+.btn-primary {
+    color: #98d2eb;            /* Lightest shade for text */
+    font-size: 150%;
+    background-color: #77625C; /* Dark green for primary button background */
+    border-color: #b75858;     /* Reddish-brown for border to use as accent */
+    border-width: thick;
+}
+
+body {
+    background-color: #E1F2FE; /* Lightest shade for body background to follow the 60% rule */
+    font-size: x-large;
+}
+.navbar-brand{
+    font-family: 'Caveat', cursive; /*change the font name for what you have*/
+    font-size: 2.25rem;
+}
+
+.card-body{
+    padding-left: 15%;
+    padding-right: 15%;
+}
